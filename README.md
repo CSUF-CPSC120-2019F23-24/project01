@@ -13,7 +13,7 @@ Write a program that asks the user for the following information:
 3. Hotel expenses
 4. Meal expenses
 
-The program then outputs all categories along with the total of all expenses in table format.
+The program then outputs all categories along with the total of all expenses in table format. See Sample Output below for format. *Note that information following the question marks in the sample output is user input, and not a part of your program.*
 
 # Hints
 1. Feel free to use labex01 prob02 as an example for cin/cout.
