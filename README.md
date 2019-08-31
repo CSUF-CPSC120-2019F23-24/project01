@@ -36,9 +36,11 @@ Dallas         3     $649.27    $220.81     $870.08
 
 # Completion checklist
 1. Is your name at the top of your program?
-2. After checking in your project, did you refresh the GitHub Website and check that your latest updates are there?
-3. Did you comment your code where appropriate?
-4. Did you use variable names appropriate for the purpose/usage of the variable?
+2. Did you comment your code where appropriate?
+3. Did you use variable names appropriate for the purpose/usage of the variable?
+4. Does your program compile? (i.e. no errors when you run clang++)
+5. Does your program produce the desired results?
+6. **After checking in your program into git, please refresh the GitHub Website and click on your file to make sure your latest updates exist in the file on GitHub.**
 
 # Project exercise guide
 Here's a link to the [Project exercise guide](https://drive.google.com/open?id=1BbuqywMqBWSAIQjEn1RaBhSDZAbSknUw) in case you need to review the lab exercise objectives, grading scheme, or evaluation process.
