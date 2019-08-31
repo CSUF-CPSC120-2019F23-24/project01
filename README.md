@@ -30,8 +30,8 @@ How many days will the trip take? 3
 What is the total hotel expense? $649
 What is the total meal expense? $220
 
-Location  Days   Hotel    Meal    Total
-Dallas       3    $649    $220     $869
+Location  Days       Hotel       Meal       Total
+Dallas       3     $649.27    $220.81     $870.08
 ```
 
 # Completion checklist
