@@ -8,7 +8,7 @@ In this program, you will be learning to use the basic C++ programming construct
 
 ## main.cpp
 Write a program that asks the user for the following information:
-1. Business trip location *(Note: string cannot include spaces for this milestone)*
+1. Business trip location *(Note: location must be a single word with no spaces for this milestone)*
 2. Trip number of days
 3. Hotel expenses
 4. Meal expenses
