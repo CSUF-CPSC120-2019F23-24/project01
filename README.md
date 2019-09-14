@@ -31,7 +31,7 @@ What is the total hotel expense? $649.27
 What is the total meal expense? $220.81
 
 Location    Days       Hotel       Meal       Total
-Dallas         3     $649.27    $220.81     $870.08
+Dallas         3      649.27     220.81      870.08
 ```
 
 # Completion checklist
